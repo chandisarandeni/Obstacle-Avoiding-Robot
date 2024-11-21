@@ -1,4 +1,6 @@
 ## Obstacle-Avoiding Robot
+![1719131258805](https://github.com/user-attachments/assets/2400d553-8b34-406b-a855-a872efb3988a)
+
 
 ### Overview
 
